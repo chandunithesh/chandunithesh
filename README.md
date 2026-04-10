@@ -63,15 +63,9 @@
 
 <p align="center">
 <a href="mailto:chandunithesh@gmail.com"><img src="https://img.shields.io/badge/Email-ed1d24?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/chandunithesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/gogineni-chandu-nithesh-4b5449271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://chandunithesh.github.io/Chandu-Nithesh-Portfolio"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="tel:+919652743292"><img src="https://img.shields.io/badge/+91--9652743292-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandunithesh/chandunithesh/output/github-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=20&duration=4000&pause=500&color=ed1d24&center=true&vCenter=true&width=700&lines=⚡+SYSTEM+STATUS:+OPTIMIZED+⚡;☕+JAVA+BACKEND+|+REACT+FRONTEND+|+AWS+CLOUD;🤖+CNN+%7C+FEDERATED+LEARNING+%7C+ML+APPLICATIONS;🐳+DOCKER+|+JENKINS+|+MICROSERVICES+ARCHITECTURE" />
 
 </div>
