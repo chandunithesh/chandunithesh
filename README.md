@@ -36,6 +36,9 @@
 > Reduced lead times, improved inventory management & minimized production costs.
 > 📄 *Published at ICMM Conference, 2024*
 
+**Smart Bio-Security Assistant** &nbsp;`march 2026`
+> Developed a web-based application using HTML, JavaScript, JSON Server, and REST APIs.
+> Integrated APIs to fetch and manage data, improving user interaction and performance.
 ---
 
 ### 🏆 ACHIEVEMENTS
@@ -51,10 +54,7 @@
 
 ### 📊 STATS_BOARD
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandunithesh&show_icons=true&theme=radical&hide_border=true&title_color=ed1d24&icon_color=ed1d24&text_color=FFFFFF&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandunithesh&layout=compact&theme=radical&hide_border=true&title_color=ed1d24&text_color=FFFFFF&bg_color=0D1117" width="48%" />
-</p>
+<p align="center"></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandunithesh&theme=radical&hide_border=true&background=0D1117&stroke=ed1d24&ring=ffffff&fire=ed1d24&currStreakLabel=ffffff" width="100%" />
 
 ---
