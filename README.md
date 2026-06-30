@@ -1,9 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHANDU%20NITHESH&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=⚡%20Full-Stack%20Java%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=78&descColor=cccccc)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ED1D24&center=true&vCenter=true&repeat=true&width=600&lines=React+%7C+Spring+Boot+%7C+Microservices;CNN+%7C+Federated+Learning+%7C+AI%2FML;Building+Scalable+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHANDU%20NITHESH&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=⚡%20Full-Stack%20Java%20Developer%20%7C%20&descSize=16&descAlignY=78&descColor=cccccc)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ED1D24&center=true&vCenter=true&repeat=true&width=600&lines=React+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=chandunithesh&label=PROFILE+VIEWS&color=ed1d24&style=flat-square)](https://github.com/chandunithesh)
