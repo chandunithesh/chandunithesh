@@ -111,12 +111,14 @@ Built using HTML, JavaScript, JSON Server & REST APIs. Integrated multiple APIs 
 </td>
 <td width="50%" valign="top">
 
-### 💡 More Coming Soon...
+### Bank Management System
 
-Always building, always learning. Check back for new projects!
+Developed a banking application using JavaFX and Java with deposit, withdrawal, balance inquiry, and fund transfer features.
+Implemented OOP concepts and integrated Oracle SQL for secure transaction and account data management
 
-![WIP](https://img.shields.io/badge/STATUS-IN%20PROGRESS-ed1d24?style=flat-square)
-
+![Java](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-00C2FF?style=for-the-badge&logo=java&logoColor=white)
 </td>
 </tr>
 </table>
@@ -131,10 +133,11 @@ Always building, always learning. Check back for new projects!
 <tr>
   <td align="center">🥇<br/><b>Smart India Hackathon</b><br/><sub>State Level Participant</sub></td>
   <td align="center">🏆<br/><b>TS Innovation Council</b><br/><sub>Menstrual Waste Hackathon</sub></td>
-  <br/><br/>
+</tr>
+<tr>
   <td align="center">🤖<br/><b>AI Hackfest</b><br/><sub>Biosecurity Assistant</sub></td>
   <td align="center">📄<br/><b>ICMM Conference 2024</b><br/><sub>Research Publication</sub></td>
-</tr>
+</tr>  
 </table>
 
 </div>
