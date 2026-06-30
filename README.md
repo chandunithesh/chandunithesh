@@ -131,6 +131,7 @@ Always building, always learning. Check back for new projects!
 <tr>
   <td align="center">🥇<br/><b>Smart India Hackathon</b><br/><sub>State Level Participant</sub></td>
   <td align="center">🏆<br/><b>TS Innovation Council</b><br/><sub>Menstrual Waste Hackathon</sub></td>
+  <br/><br/>
   <td align="center">🤖<br/><b>AI Hackfest</b><br/><sub>Biosecurity Assistant</sub></td>
   <td align="center">📄<br/><b>ICMM Conference 2024</b><br/><sub>Research Publication</sub></td>
 </tr>
