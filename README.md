@@ -20,8 +20,6 @@
 
 ## 👨‍💻 &nbsp; ABOUT ME
 
-<img align="right" src="https://img.shields.io/badge/Open%20to%20Work-00ff88?style=for-the-badge" />
-
 I'm a **Full-Stack Java Developer** from Hyderabad, India, with a strong foundation in building scalable, production-ready web applications using **React** on the frontend and **Spring Boot** with **Microservices** architecture on the backend.
 
 Beyond development, I'm deeply passionate about **Artificial Intelligence & Machine Learning** — I've worked on CNN-based brain tumor detection systems and explored **Federated Learning** for privacy-preserving distributed model training. My research on supply chain optimization was published at the **ICMM Conference 2024**, reflecting my commitment to bridging academic research with real-world engineering.
