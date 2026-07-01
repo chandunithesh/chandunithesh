@@ -4,12 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ED1D24&center=true&vCenter=true&repeat=true&width=600&lines=React+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chandunithesh&label=PROFILE+VIEWS&color=ed1d24&style=flat-square)](https://github.com/chandunithesh)
-&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE-00ff88?style=flat-square)
-&nbsp;&nbsp;
-![Location](https://img.shields.io/badge/📍-Hyderabad%2C+IN-ed1d24?style=flat-square)
-
 </div>
 
 <br/>
