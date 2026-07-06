@@ -26,38 +26,37 @@ I thrive at the intersection of clean code, data-driven thinking, and impactful 
 
 <div align="center">
 
-**[ FRONTEND ]**
+### FRONTEND
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" alt="React" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50" alt="JavaScript" />
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="50" height="50" alt="HTML5" />
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="50" height="50" alt="CSS3" />
+<img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="50" height="50" alt="TailwindCSS" />
+<img src="https://cdn.simpleicons.org/bootstrap/8511FA" width="50" height="50" alt="Bootstrap" />
 
-**[ BACKEND ]**
+### BACKEND
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="50" height="50" alt="Java" />
+<img src="https://cdn.simpleicons.org/springboot/6DB33F" width="50" height="50" alt="Spring Boot" />
+<img src="https://cdn.simpleicons.org/spring/6DB33F" width="50" height="50" alt="Microservices" />
+<img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="50" height="50" alt="Maven" />
+<img src="https://cdn.simpleicons.org/gradle/02303A" width="50" height="50" alt="Gradle" />
 
-**[ DATABASE & CLOUD ]**
+### DATABASE & CLOUD
 
-![MySQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/PL--SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" width="50" height="50" alt="Oracle" />
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS" />
 
-**[ DEVOPS & TOOLS ]**
+### DEVOPS & TOOLS
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+<img src="https://cdn.simpleicons.org/git/F05033" width="50" height="50" alt="Git" />
+<img src="https://cdn.simpleicons.org/docker/0db7ed" width="50" height="50" alt="Docker" />
+<img src="https://cdn.simpleicons.org/jenkins/2C5263" width="50" height="50" alt="Jenkins" />
+<img src="https://cdn.simpleicons.org/junit5/25A162" width="50" height="50" alt="JUnit5" />
 
 </div>
----
 
 ## 🚀 &nbsp; PROJECTS
 
