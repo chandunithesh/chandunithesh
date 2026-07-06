@@ -57,7 +57,6 @@ I thrive at the intersection of clean code, data-driven thinking, and impactful 
 ![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
-
 ---
 
 ## 🚀 &nbsp; PROJECTS
