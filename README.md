@@ -50,6 +50,7 @@ I thrive at the intersection of clean code, data-driven thinking, and impactful 
 
 ### DEVOPS & TOOLS
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
 <img src="https://cdn.simpleicons.org/git/F05033" width="50" height="50" alt="Git" />
 <img src="https://cdn.simpleicons.org/docker/0db7ed" width="50" height="50" alt="Docker" />
 <img src="https://cdn.simpleicons.org/jenkins/2C5263" width="50" height="50" alt="Jenkins" />
