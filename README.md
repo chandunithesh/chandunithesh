@@ -39,6 +39,7 @@ I thrive at the intersection of clean code, data-driven thinking, and impactful 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
 <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="50" height="50" alt="Spring Boot" />
+<img src="assets/microservices.svg" width="50" height="50" alt="Microservices" />
 <img src="https://cdn.simpleicons.org/spring/6DB33F" width="50" height="50" alt="Microservices" />
 <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="50" height="50" alt="Maven" />
 <img src="https://cdn.simpleicons.org/gradle/02303A" width="50" height="50" alt="Gradle" />
