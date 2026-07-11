@@ -79,9 +79,9 @@ I thrive at the intersection of clean code, data-driven thinking, and impactful 
 
 CNN model for brain tumor detection using image processing & computer vision. Implemented **Federated Learning** for decentralized, privacy-preserving training.
 
-![CNN](https://img.shields.io/badge/CNN-ed1d24?style=flat-square)
-![Federated Learning](https://img.shields.io/badge/Federated%20Learning-8b1015?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-ED1D24?style=flat-square)
+![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-8B1015?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
