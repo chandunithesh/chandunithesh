@@ -4,8 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ED1D24&center=true&vCenter=true&repeat=true&width=600&lines=React+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
-<br/>
-
 ---
 
 ## 👨‍💻 &nbsp; ABOUT ME
