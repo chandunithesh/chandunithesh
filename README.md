@@ -1,7 +1,8 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SANTOSH%20KUMAR%20SADHU&fontSize=55&fontColor=006400&fontFamily=Algerian&fontAlignY=55&desc=%E2%9A%A1%20Full-Stack%20Python%20Developer&descSize=16&descAlignY=78&descColor=3776AB)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ED1D24&center=true&vCenter=true&repeat=true&width=600&lines=React+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHANDU%20NITHESH&fontSize=55&fontColor=006400&fontFamily=Algerian&fontAlignY=55&desc=%E2%9A%A1%20Full-Stack%20Python%20Developer&descSize=16&descAlignY=78&descColor=3776AB)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&weight=600&size=22&pause=1000&color=ED1D24&center=true&vCenter=true&repeat=true&width=600&lines=React+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
 ---
