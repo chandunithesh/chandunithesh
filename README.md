@@ -145,11 +145,33 @@ Implemented OOP concepts and integrated Oracle SQL for secure transaction and ac
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-chandunithesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandunithesh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandu%20Nithesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gogineni-chandu-nithesh-4b5449271)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-ed1d24?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chandunithesh.github.io/Chandu-Nithesh-Portfolio)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2096527%2043292-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919652743292)
+<table align="center">
+<tr>
+<td align="center">
+<a href="mailto:chandunithesh@gmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email">
+</a>
+</td>
 
+<td align="center">
+<a href="https://www.linkedin.com/in/gogineni-chandu-nithesh-4b5449271">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn">
+</a>
+</td>
+
+<td align="center">
+<a href="https://chandunithesh.github.io/Chandu-Nithesh-Portfolio">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="40" alt="Portfolio">
+</a>
+</td>
+
+<td align="center">
+<a href="https://wa.me/919652743292">
+<img src="https://img.icons8.com/color/48/whatsapp.png" width="40" alt="WhatsApp">
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
