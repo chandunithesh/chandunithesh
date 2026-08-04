@@ -174,8 +174,6 @@ Implemented OOP concepts and integrated Oracle SQL for secure transaction and ac
 </table>
 </div>
 
-<br/>
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
