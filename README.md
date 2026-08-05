@@ -109,6 +109,7 @@ Built using HTML, JavaScript, JSON Server & REST APIs. Integrated multiple APIs 
 <td width="50%" valign="top">
 
 ### Bank Management System
+`May 2026`
 
 Developed a banking application using JavaFX and Java with deposit, withdrawal, balance inquiry, and fund transfer features.
 Implemented OOP concepts and integrated Oracle SQL for secure transaction and account data management
