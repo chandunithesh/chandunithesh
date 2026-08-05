@@ -122,7 +122,7 @@ Implemented OOP concepts and integrated Oracle SQL for secure transaction and ac
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Email API Project
+### 🤖 Email API
 `JULY 2026`
 
 Designed a RESTful Email API using Java and Spring Boot for secure, scalable, and reliable email delivery with clean API design and robust exception handling.
