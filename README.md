@@ -138,14 +138,13 @@ Designed a RESTful Email API using Java and Spring Boot for secure, scalable, an
 <td width="50%" valign="top">
 
 ### ✈️ AI Travel Planner
-`JULY 2026`
+`August 2026`
 
-Designed a RESTful Email API using Java and Spring Boot for secure, scalable, and reliable email delivery with clean API design and robust exception handling.
+Developed an **Agentic AI Travel Planner** using Python and Streamlit to generate personalized, budget-friendly travel itineraries with AI-powered recommendations for activities, transportation, accommodation, and trip planning.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
 
 </td>
 </table>
