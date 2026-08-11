@@ -123,7 +123,21 @@ Implemented OOP concepts and integrated Oracle SQL for secure transaction and ac
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Email API
+### ✉️ Email API
+`JULY 2026`
+
+Designed a RESTful Email API using Java and Spring Boot for secure, scalable, and reliable email delivery with clean API design and robust exception handling.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✈️ AI Travel Planner
 `JULY 2026`
 
 Designed a RESTful Email API using Java and Spring Boot for secure, scalable, and reliable email delivery with clean API design and robust exception handling.
