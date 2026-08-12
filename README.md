@@ -199,6 +199,12 @@ Developed an **Agentic AI Travel Planner** using Python and Streamlit to generat
 <img src="https://img.icons8.com/color/48/whatsapp.png" width="40" alt="WhatsApp">
 </a>
 </td>
+
+<td align="center">
+<a href="https://share.streamlit.io/">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" alt="Streamlit">
+</a>
+</td>
 </tr>
 </table>
 </div>
