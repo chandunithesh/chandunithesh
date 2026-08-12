@@ -201,7 +201,7 @@ Developed an **Agentic AI Travel Planner** using Python and Streamlit to generat
 </td>
 
 <td align="center">
-<a href="https://share.streamlit.io/">
+<a href="https://share.streamlit.io/user/chandunithesh">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" alt="Streamlit">
 </a>
 </td>
