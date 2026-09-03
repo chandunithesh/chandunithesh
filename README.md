@@ -145,21 +145,7 @@ Designed a RESTful Email API using Java and Spring Boot for secure, scalable, an
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
 
 </td>
-
-<td width="50%" valign="top">
-
-### ✈️ AI Travel Planner
-
-`AUGUST 2026`
-
-Developed an **Agentic AI Travel Planner** using Python and Streamlit to generate personalized, budget-friendly travel itineraries with AI-powered recommendations for activities, transportation, accommodation, and trip planning.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
-
-</td>
-
+// Nxt Project //
 </tr>
 </table>
 
